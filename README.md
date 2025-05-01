@@ -1,10 +1,12 @@
 
- Frontend Developer **Currently learning Full stack mobile App and Web developement** &  ---  Agentic AI **** ---
- Always open to **collaborations & networking!**  ---
+👋 Hi there! I'm Azan
+ **Frontend Developer**
+   Currently diving deep into **Full-Stack Mobile App & Web Development** and exploring the world of **Agentic AI**
+🤝 Always open to collaborations, networking, and building meaningful projects together!
 
----
 
-###  Connect with Me  
+
+📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azan-/)  
 
