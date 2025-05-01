@@ -6,9 +6,9 @@
  
  - **Frontend developer** Currently diving deep into Full-Stack Mobile App & Web Development and exploring the world of Agentic AI
  
- - 📫 How to reach me **azan96593@gmail.com**
+ - 📫 How to reach me **muhammad.azan18@icloud.com**
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/muhammad-azan-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
