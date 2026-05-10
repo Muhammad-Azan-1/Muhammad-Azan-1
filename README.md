@@ -57,7 +57,7 @@
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=Mantine&logoColor=white)
 ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
+<br/>
 
 ## Connect With Me
 
@@ -70,10 +70,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Muhammad-Azan-1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
   <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="Instagram" />
   </a>
@@ -84,6 +80,9 @@
   &nbsp;&nbsp;
   <a href="YOUR_X_LINK_HERE" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" height="40" alt="X (Twitter)" />
+  </a>
+  <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
   </a>
 </p>
   
