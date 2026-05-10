@@ -14,12 +14,12 @@
 
 <p align="center">
 <samp>
-「 Full Stack and Agantic AI Developer , Bridging the Gap Between Static Software and Autonomous Intelligence  」  
+「 Full Stack Software Engineer | Agentic AI Developer , Bridging the Gap Between Static Software and Autonomous Intelligence  」  
 </samp>
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Agentic+AI+Architect;Building+Autonomous+Systems+&+Worflows;Automating+Business+Workflows;Bridging+Web+&+AI" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Agentic+AI+Architect;Building+Autonomous+Systems+%26+Workflows;Automating+Business+Workflows;Bridging+Web+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
