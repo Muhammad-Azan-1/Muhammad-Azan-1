@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Azan%20Ibn%20Zameer&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Azan&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
 </p>
 
 <!-- Title -->
@@ -56,5 +56,5 @@
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=Mantine&logoColor=white)
 ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
